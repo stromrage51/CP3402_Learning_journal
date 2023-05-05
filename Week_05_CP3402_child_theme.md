@@ -2,7 +2,7 @@
 Name: Matthew Ballarino
 
 # Learning Activities
-Watch the video and read the document on the webiste "https://blog.hubspot.com/website/wordpress-create-child-theme#:~:text=WordPress%20site%20owners.-,What%20is%20a%20child%20theme%20in%20WordPress%3F,theme%20to%20control%20its%20functionality." to known what is child theme is alsoread the blog "https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/" to learn how to make child theme to see there example to gain an better understand and compared it to the lecuture. 
+Watch the video and read the document on the webiste "https://blog.hubspot.com/website/wordpress-create-child-theme#:~:text=WordPress%20site%20owners.-,What%20is%20a%20child%20theme%20in%20WordPress%3F,theme%20to%20control%20its%20functionality." to known what is child theme is also read the blog "https://www.wpbeginner.com/wp-themes/how-to-create-a-wordpress-child-theme-video/" to learn how to make child theme to see there example to gain an better understand and compared it to the lecuture. 
 
 # Resources and Links
 
