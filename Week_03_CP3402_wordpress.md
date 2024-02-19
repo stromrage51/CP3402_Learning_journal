@@ -24,7 +24,7 @@ I am very grateful for using WordPress, I found using WordPress to be more comfo
 
 <img src="neve_bar.png" alt="" class="this">
 
-
+Also I didn't use the neve thing as it was to simlar to block formats. 
 # Career/Employability/Learning Insights
 This practical in my opinion will be helpful as plan on improving the website in particular the blog as what a category system that sorts the blog posts and only display the post that is needed, I also planned to have a forum kinder like reddit but first want to work on other features such as blog and login in. So yes, the skills I learned would be more helpful later when improving the website for the assignment.
 The JCU video was also helpful as showed me how to host a WordPress through local hosting which would be extremely helpful later down the line as wordpress is used a lot on the website make industry. 
