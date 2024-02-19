@@ -14,7 +14,6 @@ How To Make a WordPress Blog - Step by Step
 https://www.youtube.com/watch?v=BhltwjuiEk4
 
 
-
 # Estimated Hours
 
 I spent probably half the week trying to create the WordPress site I was very productive once I started going the LinkedIn were very helpful.
