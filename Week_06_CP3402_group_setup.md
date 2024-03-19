@@ -2,7 +2,7 @@
 Name: Matthew Ballarino
 
 # Learning Activities
-This week I worked with my teammates to create the site tools needed for the assignment. I worked on the group agreement with Jerome on Trello, watched the video “Lecture Recording 06 Project Management Lecture Recording 06 Project Management” on learn JCU to understand on what to write for the group agreement, I found it to be useful for some of the parts. After the practical I watched some LinkedIn learning videos to become a better team member to better help the team in the group assessment.   
+This week I worked with my teammates to create the site tools needed for the assignment. While working on assigment I learned how to create a dockerfile, which was something I stuggled with. I also learned that is impormant to clafily what someone is saying as it can lead confusion.  
 
 # Resources and Links
 For the JCU learning viedo.
