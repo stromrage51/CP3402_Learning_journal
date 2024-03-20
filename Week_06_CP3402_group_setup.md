@@ -2,21 +2,27 @@
 Name: Matthew Ballarino
 
 # Learning Activities
-This week I worked with my teammates to create the site tools needed for the assignment. While working on assigment I learned how to create a dockerfile, which was something I stuggled with. I also learned that is impormant to clafily what someone is saying as it can lead confusion.  
+This week I worked with my teammates to create the site tools needed for the assignment. While working on assignment I learned how to use docker finally, which was something I struggled with. I also learned that is important to clarify what someone is saying as it can lead confusion. I learned to run a WordPress site how locally through docker and not local and understand it instead of having a vaguely understanding of it. Worked with my teammates to help fix a problem with github pull request as it was not working for awhile and nobody known why for a while.   
 
 # Resources and Links
-For the JCU learning viedo.
-23-A-CP3402-TSV-INT-SP1 Content Management Systems: Lecture Recording 06 Project Management 
+For connecting the gigthub repo.
+https://www.youtube.com/watch?v=Msw7WJPqS34
 
-For LinkedIn video. 
-https://www.linkedin.com/learning/agile-at-work-driving-productive-agile-meetings/running-agile-meetings-2?autoplay=true&u=2223545
+Github:
+https://github.com/cp3402-students/project-team3/tree/main
+
+Trello:
+https://trello.com/b/0IOfov1M/project-development-board
+
+Discord:
+https://discord.gg/cgjQ3j5j
 
 # Estimated Hours
-In total spent two hours on 30 minutes on this subject this week that’s not included the assignment. 
+In total spent eight hours on 30 minutes on this subject this week. 
 
 # Content Insights
-I found the pre lecture video useful as it basically tells you what to do for assignment. The practical basically helps you on how to start up the assignment and what to do if having team troubles. The LinkedIn learning videos basically expands upon that knowledge to give more of an explanation on team meetings like how to create a good demo meeting, what makes a good meeting and the importance of timeboxing. Timebox is the activity basically it can’t extend past its requirements, if the timebox is activity during the meeting it can’t go beyond past the meeting. Timeboxing helps predict the project’s time and how everything like delays to project will make the product predictability less predictable and leaving the sponsor unhappy. Overall, the LinkedIn learning videos were helpful along with the lecture videos as they explain the importance on having good team meetings and being consist with the work per meeting.  
+I found setting up the basic to be easy to do, there was slight initial problems like the GitHub repo like there being two GitHub repo, but problem was quickly fixed. I found using WAMP to be easier to use instead of local and docker, WAMP was suggested to me by my teammates as local webhost. Another idea to help with developing a website is Figma. Figma can be used to develop ideas for the website before going locally to develop website.  
 
 # Career/Employability/Learning Insights
 
-After completing the practical I stated to use what I learned doing the practical to better help my team during the team meetings. An example of this would be suggesting a timeline for the assignment for competition on different activities. Another good reason for doing this practical is that helps you in the job force making on a commission with other people as it tells you how to be productive as you can doing the team meetings and what the boss is looking for.    
+By getting to the habit of creating a Figma website, then run locally then run with WordPress can save a lot of effort. First reason is with Figma I can better visual the website instead going through all the effort of creating new lines of codes and changes, this allows changes to be made easier to website design when using Figma in case teammates don’t like the way it looks. Having when local first allows changes made easier to have change back to what they were previously to fix any mistakes and teams approval.      
